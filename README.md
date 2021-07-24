@@ -7,4 +7,4 @@ esto es un test
 
 <span style="color:orange;">Word up</span>
 <h3 style="color:#ff0000">Danger</h3>
-*This text is italicized*
+***All this text is important***
