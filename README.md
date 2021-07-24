@@ -9,3 +9,4 @@ esto es un test
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 **This is bold text**
+*This text is italicized*
