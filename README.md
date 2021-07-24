@@ -1,5 +1,5 @@
 # test
 esto es un test
 ```diff
-text in green
+-> text in green
 ```
